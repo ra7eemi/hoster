@@ -1,0 +1,5 @@
+{
+    "channelID": "voice channel Id that will host the token",
+    "cmdChannelId": "channel to send the play message",
+    "playListURL": "Deezer music link"
+}
